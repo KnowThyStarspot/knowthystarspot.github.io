@@ -1,10 +1,10 @@
 ---
-title: Name
-name: Name 2
-subtitle: Position
-layout: 2017_default
-img: TBS.jpg
-thumbnail: TBD.jpg
-alt: Picture of Name
-description: Info 2
+title: Rachael Roettenbacher
+name: Name-2
+subtitle: Yale University
+layout: 2018_default
+img: RR_thumbnail.jpg
+thumbnail: RR_thumbnail.jpg
+alt: Rachael Roettenbacher
+description: Spatially resolved starspot observations
 ---

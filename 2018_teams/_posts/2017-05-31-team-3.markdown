@@ -1,10 +1,10 @@
 ---
-title: Name
-name: Name 3
-subtitle: Position
-layout: 2017_default
-img: TBS.jpg
-thumbnail: TBD.jpg
-alt: Picture of Name
-description: Info 3
+title: Michael Gully-Santiago
+name: Name-3
+subtitle: Kepler/K2 Guest Observer Office at NASA Ames
+layout: 2018_default
+img: gully_ames.jpg
+thumbnail: gully_ames.jpg
+alt: gully
+description: Spectral inference and K2 light-curve analysis
 ---
