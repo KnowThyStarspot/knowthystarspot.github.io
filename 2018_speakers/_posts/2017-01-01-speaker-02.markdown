@@ -1,12 +1,12 @@
 ---
-title: Name
+title: Rachael Roettenbacher
 name: Name-2
-subtitle: Position
-layout: 2017_default
+subtitle: Yale
+layout: 2018_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
-topic: Topic
-description: More Info
+img: ann17021a.jpg
+thumbnail: RR_thumbnail.jpg
+alt: Rachael
+topic: High Angular Resolution Stellar Surface Observations
+description: High Angular Resolution Stellar Surface Observations
 ---
