@@ -1,0 +1,10 @@
+---
+title: James Davenport
+name: Name-4
+subtitle: Western Washington University & University of Washington
+layout: 2018_default
+img: davenport_head.JPG
+thumbnail: davenport_head.JPG
+alt: JRAD
+description: Flare and starspot modeling
+---
