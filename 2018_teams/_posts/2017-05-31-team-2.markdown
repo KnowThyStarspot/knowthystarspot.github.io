@@ -1,7 +1,7 @@
 ---
 title: Rachael Roettenbacher
 name: Name-2
-subtitle: Yale University
+subtitle: Stockholm University / Yale University
 layout: 2018_default
 img: RR_thumbnail.jpg
 thumbnail: RR_thumbnail.jpg
