@@ -1,10 +1,10 @@
 ---
-title: James Davenport
+title: Garrett Somers
 name: Name-4
-subtitle: Western Washington University & University of Washington
+subtitle: Vanderbilt University
 layout: 2018_default
-img: davenport_head.JPG
-thumbnail: davenport_head.JPG
-alt: JRAD
-description: Flare and starspot modeling
+img: garrettsomers_2.jpeg
+thumbnail: garrettsomers_2.jpeg
+alt: Garrett Somers
+description: Starspot Theory
 ---
